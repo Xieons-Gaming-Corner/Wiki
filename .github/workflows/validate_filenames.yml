@@ -29,11 +29,12 @@ jobs:
           fi
 
           # If invalid files are found
-          if [[ -n "$invalid_files" ]]; then
+          if [[ -z "$invalid_files" ]]; then
+            echo "✅ No invalid filenames found!"
+            exit 0
+          else
             echo "❌ Error: The following files contain invalid Windows characters:"
             echo "$invalid_files"
             echo "🛑 Please rename these files and push again."
             exit 1
-          else
-            echo "✅ All filenames are valid!"
           fi
