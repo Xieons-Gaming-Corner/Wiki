@@ -14,9 +14,13 @@ jobs:
           echo "🔍 Checking for invalid filenames..."
 
           # List all files (excluding directories) and check for specific Windows invalid characters
+          echo "Listing files in repository..."
+          git ls-tree -r --name-only HEAD
+
+          # Get files that might contain Windows-incompatible characters
           invalid_files=$(git ls-tree -r --name-only HEAD | grep -P -v '/$' | grep -P '([<>:"\\|?*])')
 
-          # Debug: Show the files that are being checked
+          # Debug: Show the files being checked
           echo "Files being checked:"
           if [[ -z "$invalid_files" ]]; then
             echo "No invalid files found."
