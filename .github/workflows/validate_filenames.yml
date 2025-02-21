@@ -1,0 +1,40 @@
+name: Validate Filenames
+
+on: [push, pull_request]
+
+jobs:
+  check-invalid-filenames:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check for Windows-incompatible filenames
+        run: |
+          echo "🔍 Checking for invalid filenames..."
+          
+          # List all files (excluding directories) and check for specific Windows invalid characters
+          echo "Listing files in repository..."
+          git ls-tree -r --name-only HEAD
+
+          # Get files that might contain Windows-incompatible characters
+          invalid_files=$(git ls-tree -r --name-only HEAD | grep -P -v '/$' | grep -P '([<>:"\\|?*])')
+
+          # Debug: Show the files being checked
+          echo "Files being checked:"
+          if [[ -z "$invalid_files" ]]; then
+            echo "No invalid files found."
+          else
+            echo "$invalid_files"
+          fi
+
+          # If invalid files are found
+          if [[ -z "$invalid_files" ]]; then
+            echo "✅ No invalid filenames found!"
+            exit 0
+          else
+            echo "❌ Error: The following files contain invalid Windows characters:"
+            echo "$invalid_files"
+            echo "🛑 Please rename these files and push again."
+            exit 1
+          fi
