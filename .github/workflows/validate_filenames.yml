@@ -18,7 +18,11 @@ jobs:
 
           # Debug: Show the files that are being checked
           echo "Files being checked:"
-          echo "$invalid_files"
+          if [[ -z "$invalid_files" ]]; then
+            echo "No invalid files found."
+          else
+            echo "$invalid_files"
+          fi
 
           # If invalid files are found
           if [[ -n "$invalid_files" ]]; then
