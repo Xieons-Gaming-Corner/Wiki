@@ -1,0 +1,69 @@
+# Zombie Weapon Camo Challenge Checklist 
+## Assault Rifles: 
+| Weapon       | Military Camos (9)                | Special Camos (2) | Gold (MP)                | Opal (Zombies)           | Progress up to: |
+|--------------|-----------------------------------|-------------------|--------------------------|--------------------------|---------------|
+| **Assault Rifles** |                                   |                   |                          |                          ||
+| XM4          | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all ARs + 30 special kills ||
+| AK-74        | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all ARs + 30 special kills ||
+| AMES 85      | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all ARs + 30 special kills ||
+| GPR 91       | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all ARs + 30 special kills ||
+| Model L      | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all ARs + 30 special kills ||
+| Goblin Mk2   | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all ARs + 30 special kills ||
+| AS Val       | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all ARs + 30 special kills ||
+| Cypher 091   | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all ARs + 30 special kills ||
+
+## Snipers: 
+| Weapon          | Military Camos (9)                | Special Camos (2) | Gold (MP)                | Opal (Zombies)           |Progress |
+|-----------------|-----------------------------------|-------------------|--------------------------|--------------------------|---------|
+| **Sniper Rifles** |                                 |                   |                          |                          ||
+| LW3A1 Frostline | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all SRs + 30 special kills ||
+| SVD             | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all SRs + 30 special kills ||
+| LR 7.62         | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all SRs + 30 special kills ||
+| AMR Mod 4       | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all SRs + 30 special kills ||
+
+## SMGS: 
+| Weapon     | Military Camos (9)                | Special Camos (2) | Gold (MP)                | Opal (Zombies)           |Progress|
+|------------|-----------------------------------|-------------------|--------------------------|--------------------------|--------|
+| **SMGs**   |                                   |                   |                          |                          ||
+| C9         | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all SMGs + 30 special kills ||
+| KSV        | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all SMGs + 30 special kills ||
+| Tanto .22  | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all SMGs + 30 special kills ||
+| PP-919     | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all SMGs + 30 special kills ||
+| Jackal PDW | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all SMGs + 30 special kills ||
+| Kompact 92 | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all SMGs + 30 special kills ||
+| PPSh-41    | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all SMGs + 30 special kills ||
+
+## Melee Weapons: 
+| Weapon       | Military Camos (9)                | Special Camos (2) | Gold (MP)                | Opal (Zombies)           |Progress|
+|--------------|-----------------------------------|-------------------|--------------------------|--------------------------|-------|
+| **Melee**    |                                   |                   |                          |                          ||
+| Baseball Bat | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all Melee + 30 special kills ||
+| Knife        | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all Melee + 30 special kills ||
+| Power Drill  | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all Melee + 30 special kills ||
+| Machete      | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all Melee + 30 special kills ||
+| Cleaver      | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all Melee + 30 special kills ||
+
+## Special Weapons: 
+| Weapon       | Military Camos (9)                | Special Camos (2) | Gold (MP)                | Opal (Zombies)           | Progress |
+|--------------|-----------------------------------|-------------------|--------------------------|--------------------------|----------|
+| **Special Weapons (Launchers)** |                     |                   |                          |                          ||
+| HE-1         | Granite, Woodland, etc.          | Weapon-specific   | All cams + 3 destructions  | Mystic Gold all Launchers + 30 special kills ||
+| CIGMA 2B     | Granite, Woodland, etc.          | Weapon-specific   | All cams + 3 destructions  | Mystic Gold all Launchers + 30 special kills ||
+| D1-3 Sector  | Granite, Woodland, etc.          | Weapon-specific   | All cams + 3 destructions  | Mystic Gold all Launchers + 30 special kills ||
+
+## Marksman Rifles# # 
+| Weapon       | Military Camos (9)                | Special Camos (2) | Gold (MP)                | Opal (Zombies)           | Progress |
+|--------------|-----------------------------------|-------------------|--------------------------|--------------------------|--------|
+| **Marksman Rifles** |                            |                   |                          |                          ||
+| SVK          | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all MRs + 30 special kills ||
+| Tsarkov 7.62 | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all MRs + 30 special kills ||
+| AEK-973      | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all MRs + 30 special kills ||
+
+## LMGS: 
+| Weapon     | Military Camos (9)                | Special Camos (2) | Gold (MP)                | Opal (Zombies)           |Progress |
+|------------|-----------------------------------|-------------------|--------------------------|--------------------------|-----|
+| **LMGs**   |                                   |                   |                          |                          ||
+| PU-21      | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all LMGs + 30 special kills ||
+| GPMG-7     | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all LMGs + 30 special kills ||
+| XMG        | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all LMGs + 30 special kills ||
+| Feng 82    | Granite, Woodland, etc.          | Weapon-specific   | All cams + 10 double kills | Mystic Gold all LMGs + 30 special kills ||
